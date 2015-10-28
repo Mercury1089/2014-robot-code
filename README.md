@@ -1,4 +1,6 @@
 2014-robot-code
 ===============
 
-Mercury 1089's code for the 2014 competition season robot.
+Code for team Mercury 1089's 2014 compeition robot, The Mammoth. 
+
+This robot plays Aerial Assist.
